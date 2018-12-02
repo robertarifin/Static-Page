@@ -1,0 +1,98 @@
+.navbar-nav {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
+
+.custom {
+    background-color: transparent;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.content {
+    display: block;
+    width: 740px;
+    padding-left: 40px;
+}
+
+.section {
+    font-size: 16px;
+    color:blue;
+    font-weight: bold;
+}
+
+.meta-right {
+    float: right;
+}
+
+.meta-container {
+    height:52px;
+    margin-bottom: 20px;
+}
+
+.facebook {
+    background-color: #3b5998;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+}
+
+.twitter {
+    background-color: #55acee;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white; 
+}
+
+.meta-left {
+    float: left;
+    border-right: 1px solid #E2E2E2;
+    width: 200px;
+    position: relative;
+}
+
+.author {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border-bottom: 1px solid #E2E2E2;
+    font-size: 100%;
+}
+
+.content-fix {
+    display: block
+}
+
+.date {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 100%;
+}
+.reddit {
+    background-color: #ff4500;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+     color: white; 
+}
+
+.image {
+    margin-bottom: 50px;
+    max-width:700px;
+}
+
+.main {
+    display: block;
+}
+
+blockquote {
+    margin: 0;
+    padding: 30px;
+    background: #f3f3f3;
+    color:  #555;
+   
+}
+
+blockquote, blockquote p, ul {
+    font-size: 14px;
+}
+
+footer {
+    background-color: black;
+    color: whitesmoke;
+    margin-top: 50px;
+    height:80px;
+}
